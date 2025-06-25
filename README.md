@@ -46,4 +46,19 @@ Whether you're tracking wallets, trading tokens, or applying for jobs — Pathwa
 
 ## 📘 Documentation
 
-Full do
+Full docs available at:  
+👉 [https://usepathway.app/docs](https://usepathway.app/docs)
+
+---
+
+## 📣 Stay in the loop
+
+- Follow us on X: [@usepathway](https://x.com/usepathway)
+- Join the community (coming soon)
+
+---
+
+## 📄 License
+
+MIT License  
+Copyright (c) 2025 Pathway AI
